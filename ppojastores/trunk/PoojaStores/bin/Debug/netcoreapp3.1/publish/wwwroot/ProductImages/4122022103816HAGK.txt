@@ -1,0 +1,25 @@
+package functions;
+ 
+public class Adding {
+	//function that finds the sum of digits of a number 
+	static int findSum(int number) {
+		//returns sum      
+		//if number is not equal to 0 then execute code after colon (:), else print 0    
+		//the method findSum() is called  
+		return number == 0 ? 0 : number % 10 +findSum(number/10) ;  
+	} 
+	public static void main(String[] args) {
+		int number=454;
+		//print statement 
+		System.out.println("The sum of digits: "+findSum(number));  
+	 
+		  
+		}
+
+}
+
+
+//1 step:                    //2 step:           //3 step:
+//454 % 10 = 4               //45 % 10 = 5       Sum = 9 + 4 = 13
+//Sum = 0 + 4 = 4            //sum =4+5=9         4/10 = 0
+//454 / 10 = 45              //45/10=4

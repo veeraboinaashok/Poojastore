@@ -1,0 +1,1 @@
+﻿GlobalUrl = "http://localhost:50308/";

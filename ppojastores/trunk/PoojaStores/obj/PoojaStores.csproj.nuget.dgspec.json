@@ -1,36 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "J:\\PoojaStores13042023\\trunk\\PoojaStores\\PoojaStores.csproj": {}
+    "/home/ubuntu/poojastores/ppojastores/trunk/PoojaStores/PoojaStores.csproj": {}
   },
   "projects": {
-    "J:\\PoojaStores13042023\\trunk\\PoojaStores\\PoojaStores.csproj": {
+    "/home/ubuntu/poojastores/ppojastores/trunk/PoojaStores/PoojaStores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\PoojaStores13042023\\trunk\\PoojaStores\\PoojaStores.csproj",
+        "projectUniqueName": "/home/ubuntu/poojastores/ppojastores/trunk/PoojaStores/PoojaStores.csproj",
         "projectName": "PoojaStores",
-        "projectPath": "J:\\PoojaStores13042023\\trunk\\PoojaStores\\PoojaStores.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "J:\\PoojaStores13042023\\trunk\\PoojaStores\\obj\\",
+        "projectPath": "/home/ubuntu/poojastores/ppojastores/trunk/PoojaStores/PoojaStores.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/home/ubuntu/poojastores/ppojastores/trunk/PoojaStores/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,7 +35,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
               "target": "Package",
@@ -75,8 +67,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -88,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.426/RuntimeIdentifierGraph.json"
         }
       }
     }

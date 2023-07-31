@@ -1,0 +1,52 @@
+Inventory-
+Scaneario 1:
+
+Step 1: admin- update inventory
+2: customer- updated inventpry is displaying properly when we search
+
+Scenario 2:
+duplicate images of primary is displaying
+
+Scenario 3:
+delete any 1 primary image not working
+
+Scenario 4:
+Inventory status- should be displayed if reserved.{displaying only for available]
+
+Scenario 5:
+admin- inventory- update quantity to '0'- save-error 500, need validation message
+
+Scenario 6:
+admin- Move stock- Quantity taking as normal ..not considering showroom and warehousen quantity
+
+Scenario 7:
+Staff- employee details fille- "salary slip fileFile"- to be as Salary slip File 
+
+Sceanrio 8:
+Staff-accept email to employee- click on linnk-taking time to load page
+
+Scenario 9:
+Staff- DOB & ADDRESS issues to be fixed.
+in offer letter template - adress near empty comas displaying
+
+
+Scenarion 10:
+Sales Head can see all Sales Executives/quote for discounts
+
+Scenario 11:
+Sales Head- Profile- Update- save- error 500
+Scenario 12:
+Login acces should be given on the joining date[ ].
+
+Scenario 13:
+Staff Attendance- current year not coming.[]
+
+Scenario 14:
+
+
+
+
+
+
+
+
